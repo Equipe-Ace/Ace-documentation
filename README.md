@@ -11,7 +11,7 @@
 <span id="sobre">
 
 ## :bookmark_tabs: Sobre o projeto
-A partir da apresentação do desafio enfrentado pela empresa parceira, a solução desenvolvida se configura em um sistema que um funcionario cadastra um cliente junto de suas parcelas pra ele pagar, cobra o cliente para paga-las e da baixa nelas quando elas são pagas.
+A partir da apresentação do desafio enfrentado pela empresa parceira, a solução desenvolvida se configura em um sistema que um funcionario cadastra um cliente junto das parcelas ligadas a ele, cobra o cliente para paga-las e da baixa nelas quando elas forem pagas.
 
 → [Voltar ao topo](#topo)
 
@@ -22,7 +22,7 @@ Cada entrega será feita a partir da criação de uma **tag** em cada repositór
 
 | Sprint | Previsão | Status | Relatório |
 |:--:|:----------:|:------------:|:----------:|
-| 01 | 02/04/2023 | 🚧 Em andamento | - |
+| 01 | 02/04/2023 | 🚧 Em andamento | [ver relatório](https://github.com/Equipe-Ace/Ace-documentation/tree/sprint1) |
 | 02 | 23/04/2023 | 🛑 Não iniciada | - |
 | 03 | 14/05/2023 | 🛑 Não iniciada | - |
 | 04 | 04/06/2023 | 🛑 Não iniciada | - |
