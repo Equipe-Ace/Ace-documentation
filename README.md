@@ -22,8 +22,8 @@ Cada entrega será feita a partir da criação de uma **tag** em cada repositór
 
 | Sprint | Previsão | Status | Relatório |
 |:--:|:----------:|:------------:|:----------:|
-| 01 | 02/04/2023 | 🚧 Em andamento | [ver relatório](https://github.com/Equipe-Ace/Ace-documentation/tree/sprint1) |
-| 02 | 23/04/2023 | 🛑 Não iniciada | - |
+| 01 | 02/04/2023 | ✔️ Concluída | [ver relatório](https://github.com/Equipe-Ace/Ace-documentation/tree/sprint1) |
+| 02 | 23/04/2023 | 🚧 Em andamento | - |
 | 03 | 14/05/2023 | 🛑 Não iniciada | - |
 | 04 | 04/06/2023 | 🛑 Não iniciada | - |
 
@@ -32,6 +32,16 @@ Cada entrega será feita a partir da criação de uma **tag** em cada repositór
 <span id="docs">
 
 ## 📘 Documentações
+
+# BPMN
+
+<div align="center">
+
+![Screenshot 2023-04-02 205239](https://user-images.githubusercontent.com/101061910/229385810-9b054295-8b4f-4858-a1e9-4d48642428e2.png)
+
+![Screenshot 2023-04-02 205252](https://user-images.githubusercontent.com/101061910/229385814-a72f467e-8202-42e6-88b6-bc1618168050.png)
+
+</div>
 
 → [Voltar ao topo](#topo)
 
