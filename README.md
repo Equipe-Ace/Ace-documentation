@@ -29,6 +29,36 @@ Cada entrega será feita a partir da criação de uma **tag** em cada repositór
 
 → [Voltar ao topo](#topo)
 
+## :writing_hand: Backlog do Produto
+
+A tabela a seguir refere-se ao Backlog do Produto levando em consideração os requisitos funcionais do projeto.
+Os requisitos estão ordenados por prioridade conforme acordade com o cliente. 
+
+| Sprint | Prioridade | Requisitos | Status |
+|:--:|:---:|:----------------:|:-------:|
+| 1 | 1 |Cadastro de clientes| :heavy_check_mark: |
+| 1 | 1 |Geração de parcelas | :heavy_check_mark: |
+| 1 | 1 |Baixa nas parcelas | :heavy_check_mark: |
+| 2 | 1 |Melhorias nas funcionalidades | :heavy_check_mark: |
+| 2 | 1 |Funcionalidade de Relatórios | :heavy_check_mark: |
+| 2 | 2 |Tela de listagem de clientes | :heavy_check_mark: |
+| 3 | 2 |Melhoria dos relatórios | :lock: |
+| 3 | 2 |Aplicar processamento Batch | :lock: |
+| 3 | 2 |Tela de parcelas por cliente | :lock: |
+| 4 | 3 |Edição de usuários | :lock: |
+| 4 | 3 |Gráficos informativos | :lock: |
+
+
+A tabela abaixo representa os requisitos não funcionais aplicados ao projeto, ordenados de acordo com a instituição idealizadora:
+<br><br/>
+| Instituição | Requisitos |
+|:------:|:-----------:|
+| Fatec | Utilizar linguagem java e typescript|
+| Fatec | Documentação das regras de negócio |
+| Empresa | BPMN dos processos |
+
+→ [Voltar ao topo](#topo)
+
 <span id="docs">
 
 ## 📘 Documentações
