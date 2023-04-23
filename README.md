@@ -3,9 +3,11 @@
 <p align="center">
     <a href="#sobre">Sobre</a>  |  
     <a href="#sprint">Entregas</a>  |
+    <a href="#backlog">Backlog</a> |
     <a href="#docs">Documentações</a>  |
     <a href="#tecnologia">Tecnologia</a>  |
-    <a href="#equipe">Equipe</a>
+    <a href="#equipe">Equipe</a> |
+    
 </p>
 
 <span id="sobre">
@@ -22,12 +24,14 @@ Cada entrega será feita a partir da criação de uma **tag** em cada repositór
 
 | Sprint | Previsão | Status | Relatório |
 |:--:|:----------:|:------------:|:----------:|
-| 01 | 02/04/2023 | ✔️ Concluída | [ver relatório](https://github.com/Equipe-Ace/Ace-documentation/tree/sprint1) |
+| 01 | 02/04/2023 | ✔️ Concluída | [ver relatório](https://github.com/Equipe-Ace/Ace-documentation/blob/main/sprints/sprint%201/README.md) |
 | 02 | 23/04/2023 | 🚧 Em andamento | - |
 | 03 | 14/05/2023 | 🛑 Não iniciada | - |
 | 04 | 04/06/2023 | 🛑 Não iniciada | - |
 
 → [Voltar ao topo](#topo)
+
+<span id="backlog">
 
 ## :writing_hand: Backlog do Produto
 
