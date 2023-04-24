@@ -5,6 +5,7 @@
     <a href="#sprint">Entregas</a>  |
     <a href="#backlog">Backlog</a> |
     <a href="#docs">Documentações</a>  |
+    <a href="#repositorio"> Repositórios</a> |
     <a href="#tecnologia">Tecnologia</a>  |
     <a href="#equipe">Equipe</a> |
     
@@ -71,11 +72,29 @@ Cada entrega será feita a partir da criação de uma **tag** em cada repositór
 
 # BPMN
 
+
+
+- BPMN referente ao cadastro de clientes e geração de parcelas:
+
 <div align="center">
 
 ![Screenshot 2023-04-02 205239](https://user-images.githubusercontent.com/101061910/229385810-9b054295-8b4f-4858-a1e9-4d48642428e2.png)
 
+</div>
+
+- BPMN referente ao controle de títulos a vencer:
+
+<div align="center">
+
 ![Screenshot 2023-04-02 205252](https://user-images.githubusercontent.com/101061910/229385814-a72f467e-8202-42e6-88b6-bc1618168050.png)
+
+</div>
+
+- BPMN referente à funcionalidade de relatórios:
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/79228873/233876951-69d26c01-2370-4a1b-aa5b-abcb2284eedb.png)
 
 </div>
 
@@ -99,6 +118,15 @@ Todas as ferramentas, linguagens, bibliotecas e tecnologias utilizadas em todo o
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 </div>
+
+<span id="repositorio">
+
+→ [Voltar ao topo](#topo)
+
+## :technologist: Repositórios
+
+- Microserviço [Backend](https://github.com/Equipe-Ace/Project-Ace-Backend)
+- Microserviço [Frontend](https://github.com/Equipe-Ace/Project-Ace-Frontend)
 
 → [Voltar ao topo](#topo)
 
