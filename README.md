@@ -13,21 +13,7 @@
 <span id="sobre">
 
 ## :bookmark_tabs: Sobre o projeto
-A partir da apresentação do desafio enfrentado pela empresa parceira, a solução desenvolvida se configura em um sistema que um funcionario cadastra um cliente junto das parcelas ligadas a ele, cobra o cliente para paga-las e da baixa nelas quando elas forem pagas.
-
-→ [Voltar ao topo](#topo)
-
-<span id="sprint">
-
-## 🏁 Entregas de Sprints
-Cada entrega será feita a partir da criação de uma **tag** em cada repositório (FrontEnd e BackEnd), além da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
-
-| Sprint | Previsão | Status | Relatório |
-|:--:|:----------:|:------------:|:----------:|
-| 01 | 02/04/2023 | ✔️ Concluída | [ver relatório](https://github.com/Equipe-Ace/Ace-documentation/blob/main/sprints/sprint%201/README.md) |
-| 02 | 23/04/2023 | 🚧 Em andamento | - |
-| 03 | 14/05/2023 | 🛑 Não iniciada | - |
-| 04 | 04/06/2023 | 🛑 Não iniciada | - |
+A partir da apresentação do desafio enfrentado pela empresa parceira, a solução desenvolvida se configura em um sistema de cobrança de parcelas, no qual, um usuário do tipo comercial fará o cadastro de clientes fictícios, o sistema gerará parcelas para o pagamento de um serviço, também fictício, e um outro usuário, do tipo financeiro, ficará responsável por gerenciar os pagamentos das parcelas, bem como, monitorar o ciclo de vida delas através de relatórios e funções similares. O sistema, então, deve englobar todas essas funcionalidades e apresentá-las de maneira simples e satisfatória, seguindo as regras de negócio e os requisitos estabelecidos. À Parte do sistema, a equipe deve também elaborar BPMN's para descrever o fluxo dos processos utilizados.
 
 → [Voltar ao topo](#topo)
 
@@ -52,7 +38,7 @@ Os requisitos estão ordenados por prioridade conforme acordade com o cliente.
 | 4 | 3 |Edição de usuários | :lock: |
 | 4 | 3 |Gráficos informativos | :lock: |
 
-
+<br></br>
 A tabela abaixo representa os requisitos não funcionais aplicados ao projeto, ordenados de acordo com a instituição idealizadora:
 <br><br/>
 | Instituição | Requisitos |
@@ -62,6 +48,22 @@ A tabela abaixo representa os requisitos não funcionais aplicados ao projeto, o
 | Empresa | BPMN dos processos |
 
 → [Voltar ao topo](#topo)
+
+
+<span id="sprint">
+
+## 🏁 Entregas de Sprints
+Cada entrega será feita a partir da criação de uma **tag** em cada repositório (FrontEnd e BackEnd), além da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
+
+| Sprint | Previsão | Status | Relatório |
+|:--:|:----------:|:------------:|:----------:|
+| 01 | 02/04/2023 | ✔️ Concluída | [ver relatório](https://github.com/Equipe-Ace/Ace-documentation/blob/main/sprints/sprint%201/README.md) |
+| 02 | 23/04/2023 | ✔️ Concluída | [ver relatório](https://github.com/Equipe-Ace/Ace-documentation/blob/main/sprints/sprint%202/README.md) |
+| 03 | 14/05/2023 | 🚧 Em andamento | - |
+| 04 | 04/06/2023 | 🛑 Não iniciada | - |
+
+→ [Voltar ao topo](#topo)
+
 
 <span id="docs">
 
