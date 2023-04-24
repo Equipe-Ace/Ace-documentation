@@ -11,9 +11,11 @@
 ## :dart: Objetivo
 
 O objetivo dessa sprint era cumprir 4 requisitos: A melhoria das antigas funcionalidades de acordo com o que foi definido pelo cliente, uma página que disponibilizasse uma tabela pra mostrar todos os usuários, novas telas para apresentar relatórios gerados por busca de datas; sendo elas: bussca por data de pagamento, data de crédito e data de vencimento.
-
+<div align="center">
+    
 ![image](https://user-images.githubusercontent.com/79228873/233870034-7d7eb587-1aab-4141-b6c5-f95aa55e9013.png)
-
+    
+</div>
 <span id="entrega">
 
 ## :heavy_check_mark: Entrega
