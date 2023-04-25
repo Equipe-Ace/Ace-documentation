@@ -34,6 +34,7 @@ Os requisitos estão ordenados por prioridade conforme acordade com o cliente.
 | 2 | 1 |Funcionalidade de Relatórios | :heavy_check_mark: |
 | 2 | 2 |Tela de listagem de clientes | :heavy_check_mark: |
 | 3 | 2 |Melhoria dos relatórios | :lock: |
+| 3 | 2 | Autenticação e autorização | :lock: |
 | 3 | 2 |Aplicar processamento Batch | :lock: |
 | 3 | 2 |Tela de parcelas por cliente | :lock: |
 | 4 | 3 |Edição de usuários | :lock: |
