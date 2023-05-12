@@ -33,12 +33,13 @@ Os requisitos estão ordenados por prioridade conforme acordade com o cliente.
 | 2 | 1 |Melhorias nas funcionalidades | :heavy_check_mark: |
 | 2 | 1 |Funcionalidade de Relatórios | :heavy_check_mark: |
 | 2 | 2 |Tela de listagem de clientes | :heavy_check_mark: |
-| 3 | 2 |Melhoria dos relatórios | :lock: |
-| 3 | 2 | Autenticação e autorização | :lock: |
-| 3 | 2 |Aplicar processamento Batch | :lock: |
-| 3 | 2 |Tela de parcelas por cliente | :lock: |
+| 3 | 2 |Melhoria dos relatórios | :heavy_check_mark: |
+| 3 | 2 | Autenticação e autorização | :heavy_check_mark: |
+| 3 | 2 |Tela de parcelas por cliente | :heavy_check_mark: |
+| 4 | 2 |Aplicar processamento Batch | :lock: |
 | 4 | 3 |Edição de usuários | :lock: |
 | 4 | 3 |Gráficos informativos | :lock: |
+
 
 <br></br>
 A tabela abaixo representa os requisitos não funcionais aplicados ao projeto, ordenados de acordo com a instituição idealizadora:
@@ -137,12 +138,18 @@ Todas as ferramentas, linguagens, bibliotecas e tecnologias utilizadas em todo o
 
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner | Pedro Antonio Rizzo Toledo           |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-antonio-rizzo-toledo-71b465232/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Pedro-Toledo)              |
-| Scrum Master  | Caio Vitor Dias |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vitor-c1/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/caiovitordias1)             |
+| Product Owner | Caio Vitor Dias |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vitor-c1/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/caiovitordias1)             |
+| Scrum Master  |André Felipe da Costa | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-felipe-353260243/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/fecosta290)             |
 |   Dev Team    | Ana Clara Marques Portes | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AnaMarks) |
-|   Dev Team    | André Felipe da Costa | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-felipe-353260243/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/fecosta290) |
+|   Dev Team    | Pedro Antonio Rizzo Toledo           |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-antonio-rizzo-toledo-71b465232/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Pedro-Toledo)    |
 |   Dev Team    | Ian Ferreira Tupinambá Machado | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/itupii) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/itupii) |
 |   Dev Team    | Julio de Paula Machado | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JulioPm142) |
 |   Dev Team    | Ryan Alves de Quadros | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-alves-661ba823b/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/XLryan246) |
 
 → [Voltar ao topo](#topo)
+    
+   
+    
+   
+    
+    
