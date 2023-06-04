@@ -36,9 +36,9 @@ Os requisitos estão ordenados por prioridade conforme acordade com o cliente.
 | 3 | 2 |Melhoria dos relatórios | :heavy_check_mark: |
 | 3 | 2 | Autenticação e autorização | :heavy_check_mark: |
 | 3 | 2 |Tela de parcelas por cliente | :heavy_check_mark: |
-| 4 | 2 |Refinamento dos relatórios | :lock: |
-| 4 | 3 |Funcionalidade de inadimplencia | :lock: |
-| 4 | 3 |Documentação| :lock: |
+| 4 | 2 |Refinamento dos relatórios |:heavy_check_mark: |
+| 4 | 3 |Funcionalidade de inadimplencia | :heavy_check_mark: |
+| 4 | 3 |Documentação| :heavy_check_mark: |
 
 
 <br></br>
@@ -63,7 +63,7 @@ Cada entrega será feita a partir da criação de uma **tag** em cada repositór
 | 01 | 02/04/2023 | ✔️ Concluída | [ver relatório](https://github.com/Equipe-Ace/Ace-documentation/blob/main/sprints/sprint%201/README.md) |
 | 02 | 23/04/2023 | ✔️ Concluída | [ver relatório](https://github.com/Equipe-Ace/Ace-documentation/blob/main/sprints/sprint%202/README.md) |
 | 03 | 14/05/2023 | ✔️ Concluída | [ver relatório](https://github.com/Equipe-Ace/Ace-documentation/tree/main/sprints/sprint%203 )|
-| 04 | 04/06/2023 | 🚧 Em andamento | - |
+| 04 | 04/06/2023 | ✔️ Concluída | [ver relatório](https://github.com/Equipe-Ace/Ace-documentation/tree/main/sprints/sprint%204) |
 
 → [Voltar ao topo](#topo)
 
