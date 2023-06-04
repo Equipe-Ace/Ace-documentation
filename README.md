@@ -74,7 +74,7 @@ Cada entrega será feita a partir da criação de uma **tag** em cada repositór
 
 # BPMN
 
-- BPMN referente ao fluxo de utilização do sistema e demonstração das funcionalidades:
+- BPMN referente ao fluxo de utilização do sistema e demonstração de cada funcionalidade:
 
 <div align="center">
 
