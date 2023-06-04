@@ -46,5 +46,21 @@ A tela dos relatórios sofreu inúmeras mudanças, a começar por ser uma única
   
   #### Relatórios de cobrança:
   Essa regra é contemplada quando um usuário financeiro ou admin, acessa a aba de "relatórios". Nela o usuário poderá escolher um valor de data inicial e data final para trazer do banco de dados todas as parcelas dentro desse intervalo, e então ele escolherá um tipo de relatório (parcelas a vencer, pagas, creditadas e em atraso) e ao fazer a busca trará as parcelas juntamente com diversas informações pertinentes através do status da parcela (paga, vencida, em atraso e etc), de forma que uma parcela só é considerada paga se o pagamento já tiver "caído" (requisitos abordados). 
+   
+ Para melhor entender o fluxo de como o sistema será usado por cada usuário e a aplicação das regras de negócio, é possível consultar o BPMN a seguir.
+ #### BPMN do fluxo de utilização do sistema:
+    
+ #### Parte 1 (cadastro de cliente e registro de parcelas):
+    
+ ![image](https://github.com/Equipe-Ace/Ace-documentation/assets/79228873/1c7527d1-1eab-4822-98af-32441cf7a441)
+
+#### Parte 2 (registro de baixa das parcelas):
+ ![image](https://github.com/Equipe-Ace/Ace-documentation/assets/79228873/c5256623-84eb-4231-88e2-3f3a2806f2b9)
 
   
+#### Parte 3 (Relatórios de cobrança):
+![image](https://github.com/Equipe-Ace/Ace-documentation/assets/79228873/e9112133-ca2f-4f00-9a1f-bddb2b5e770b)
+    
+#### BPMN Completo:
+![image](https://github.com/Equipe-Ace/Ace-documentation/assets/79228873/475e8da1-6881-44f4-a04d-9fb52ffd8019)
+
