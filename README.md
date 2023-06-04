@@ -74,29 +74,11 @@ Cada entrega será feita a partir da criação de uma **tag** em cada repositór
 
 # BPMN
 
-
-
-- BPMN referente ao cadastro de clientes e geração de parcelas:
+- BPMN referente ao fluxo de utilização do sistema e demonstração das funcionalidades:
 
 <div align="center">
 
-![Screenshot 2023-04-02 205239](https://user-images.githubusercontent.com/101061910/229385810-9b054295-8b4f-4858-a1e9-4d48642428e2.png)
-
-</div>
-
-- BPMN referente ao controle de títulos a vencer:
-
-<div align="center">
-
-![Screenshot 2023-04-02 205252](https://user-images.githubusercontent.com/101061910/229385814-a72f467e-8202-42e6-88b6-bc1618168050.png)
-
-</div>
-
-- BPMN referente à funcionalidade de relatórios:
-
-<div align="center">
-
-![image](https://user-images.githubusercontent.com/79228873/233876951-69d26c01-2370-4a1b-aa5b-abcb2284eedb.png)
+![image](https://github.com/Equipe-Ace/Ace-documentation/assets/79228873/475e8da1-6881-44f4-a04d-9fb52ffd8019)
 
 </div>
 
