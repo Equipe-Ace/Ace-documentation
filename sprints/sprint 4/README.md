@@ -18,20 +18,32 @@ Para última sprint, nosso objetivo foi adicionar uma funcionalidade que demonst
   
 ### Funcionalidade para mostrar adimplência
 Agora, na tela de listagem de clientes,  é possível saber quais clientes são adimplentes e quais são inadimplentes. Se um cliente tiver uma parcela vencida que ainda não foi paga, este será indicado como inadimplente, enquanto que, se um cliente pagou uma parcela, dentro ou fora do vencimento, ou se uma parcela não paga ainda não venceu, então, ele será indicado como adimplente.
+    
+ ![funcAdimpl](https://github.com/Equipe-Ace/Ace-documentation/assets/79228873/cba6655b-1f69-416e-bf5d-ffbea19ba34a)
   
 ### Refinamento dos relatórios
 A tela dos relatórios sofreu inúmeras mudanças, a começar por ser uma única tela que oferece a escolha de qual tipo de relatório será mostrado, ao invés de ter que ficar indo de tela em tela para acessar o tipo de relatório desejado. Os tipos de relatórios também foram atualizados, agora são 4: relatório de parcelas a vencer, de parcelas pagas, de parcelas creditadas e de parcelas em atraso. Além disso agora os relatórios mostram a situação das parcelas; no relatório "a vencer" elas podem estar: vencidas, pagas ou a vencer, no relatório de "pagas" elas podem estar: pagas ou não pagas, no relatório de "creditadas" elas podem estar: em aberto, creditadas ou a creditar, e no relatório "em atraso" elas podem estar: em atraso, pagas, a pagar ou pagas em atraso.
+    
+ ![funcRelatFinal](https://github.com/Equipe-Ace/Ace-documentation/assets/79228873/a5d0dc61-d041-4b2a-a1d4-28e7b8ab1026)
 
   ### Adições extras
   Algumas funcionalidades extras também foram desenvolvidas, elas são: cadastro de usuários e responsividade.
   
   #### Cadastro de usuários
   Usuários administradores são capazes de cadastrar outros usuários em uma tela exclusiva. Esses usuários cadastrados podem somente ser do tipo financeiro e comercial.
+    
+ ![funcCadasUsu](https://github.com/Equipe-Ace/Ace-documentation/assets/79228873/a8378960-a840-4e80-a960-1fe82d1f1997)
   
   #### Responsividade
   Todas as telas do sistema agora apresentam responsividade, tornando a interface muito mais acessível à outras plataformas e tamanhos de telas.
-  
-  ### Documentação
+    
+<div align="center">
+    
+![demonstRespo](https://github.com/Equipe-Ace/Ace-documentation/assets/79228873/a424b8c7-2f6b-4d4f-8574-06b54f44052d)
+    
+</div>
+    
+ ### Documentação
   O sistema possui 4 principais regras de negócio: Cadastro de clientes, Registro de parcelas a vencer, Registro de baixa de parcela e Relatórios de cobrança.
   Cada uma dessas regras possui alguns requisitos específicos que também são abordados.
   
@@ -63,4 +75,8 @@ A tela dos relatórios sofreu inúmeras mudanças, a começar por ser uma única
     
 #### BPMN Completo:
 ![image](https://github.com/Equipe-Ace/Ace-documentation/assets/79228873/475e8da1-6881-44f4-a04d-9fb52ffd8019)
+
+
+
+
 
